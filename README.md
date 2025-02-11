@@ -1,3 +1,5 @@
+![Alt text](https://github.com/HusnainIzhar/husnainizhar/blob/main/Blue%20Gradient%20Software%20Engineer%20Linkedin%20Background%20Photo%20(7).png?raw=true)
+
 # 👋 Hi, I'm Husnain Izhar!
 
 🚀 **Full Stack Software Developer | DevOps Enthusiast | AI Innovator**
