@@ -94,11 +94,13 @@ I love turning ideas into scalable products while optimizing for performance, se
 
 ---
 
-## 🎯 What I'm Currently Working On
-
-- 🌟 Exploring **LLMs & Generative AI** for AI-driven applications
-- 🏗️ Scaling **web & mobile apps** with **cloud automation**
-- 📡 Enhancing **DevOps & CI/CD pipelines** for optimized deployments
+## 🎯 **What I'm Currently Working On**
+- 🤖 **Exploring LLMs & Generative AI** for AI-driven applications  
+- 🏗️ **Scaling web & mobile apps** with cloud automation  
+- 📡 **Enhancing DevOps & CI/CD pipelines** for optimized deployments  
+- 🔬 **Advancing Machine Learning & Deep Learning** for intelligent automation  
+- 🚀 **Experimenting with AI-powered chatbots** using OpenAI’s Assistant API  
+- 📊 **Optimizing AI models** for performance & efficiency  
 
 ---
 
