@@ -43,31 +43,45 @@ I love turning ideas into scalable products while optimizing for performance, se
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
-### **💻 Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+### **💻 Frontend Development**
+| Technology | Badge |
+|------------|----------------|
+| 🚀 React | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) |
+| ⚡ Next.js | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) |
+| 📱 React Native | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react) |
+| 🔄 Redux | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux) |
+| 🎨 Tailwind CSS | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) |
 
-### **🖥️ Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+---
+
+### **🖥️ Backend Development**
+| Technology | Badge |
+|------------|----------------|
+| 🛠️ Node.js | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) |
+| ⚙️ Express.js | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express) |
+| 🐍 Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
+| 📝 TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript) |
+
+---
 
 ### **☁️ DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+| Technology | Badge |
+|------------|----------------|
+| ☁️ AWS | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws) |
+| 📜 Terraform | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform) |
+| 🚀 GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions) |
+| 🐳 Docker | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) |
+
+---
 
 ### **📊 Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+| Technology | Badge |
+|------------|----------------|
+| 🗄️ MongoDB | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) |
+| 💾 MySQL | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) |
+| 📡 Supabase | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase) |
 
 ---
 
