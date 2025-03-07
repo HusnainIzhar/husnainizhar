@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Husnain Izhar  
 
-🚀 **Full Stack Software Developer | DevOps Enthusiast | AI Innovator**  
+🚀 **Full Stack Software Developer**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Husnain%20Izhar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/husnainizhar/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github)](https://github.com/husnainizhar)  
