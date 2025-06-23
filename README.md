@@ -22,13 +22,13 @@ I build scalable, high-performance applications with a focus on security and use
 
 ---
 
-## 🎯 Current Focus  
+## 🎯 Technologies I’ve Worked With
 
-- 🤖 **Exploring LLMs & AI-driven applications**  
-- 🏗️ **Scaling cloud infrastructure & automation**  
-- 📡 **Optimizing DevOps & CI/CD pipelines**  
-- 🔬 **Machine Learning & Deep Learning advancements**  
-- 🚀 **Building AI-powered chatbots & automation tools**  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,postgres,prisma,dynamodb,express,figma,firebase,redis,github,html,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,anaconda,androidstudio,bash,cloudflare,githubactions,graphql,heroku,jest,pnpm,supabase,terraform,vercel&perline=14" />
+  </a>
+</p>
 
 ---
 
