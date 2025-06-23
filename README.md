@@ -8,16 +8,22 @@
 
 ## 🔥 About Me  
 
-Passionate **Full Stack Software Developer** specializing in **web & mobile development**, **AI solutions**, and **cloud automation**. I focus on:  
+Passionate **Full Stack Software Developer** specializing in **web & mobile development**, **AI solutions**, and **cloud automation**. I focus on:
 
-- **Frontend & Mobile Development:** HTML5, CSS3, ES6, TypeScript, React.js, Next.js, React Native, Redux, Tailwind CSS, Bootstrap, Material UI  
+- **Frontend:** HTML5, CSS3, ES6, TypeScript, React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material UI  
+- **Cross Platform:** React Native  
 - **Backend & APIs:** Node.js, Express.js, NestJS, Python, REST APIs, GraphQL, Redis  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Prisma  
-- **DevOps & Cloud:** AWS, GCP, Docker, Heroku, GitHub Actions (CI/CD for Web & Mobile), Terraform, Supabase, DynamoDB, S3, Lambda  
-- **Testing:** Unit Testing, Integration Testing, End-to-End Testing (Playwright)  
-- **AI & Automation:** OpenAI, Hugging Face, LLaMA, LangChain, Retrieval-Augmented Generation (RAG), Assistant API (OpenAI), ElevenLabs, Gemini 
+- **Cloud Platforms:** AWS, GCP, Heroku  
+- **Infrastructure & DevOps:** Docker, Terraform, GitHub Actions (CI/CD for Web & Mobile), Supabase, DynamoDB, S3, Lambda  
+- **Testing & QA:** Unit Testing, Integration Testing, End-to-End Testing (Playwright)  
+- **AI & Automation:** OpenAI, Hugging Face, LLaMA, LangChain, Assistant API (OpenAI), ElevenLabs, Gemini  
+- **Programming Languages:** JavaScript, TypeScript, Python  
+- **Version Control:** Git, GitHub  
 
-I build scalable, high-performance applications with a focus on security and user experience.  
+I build scalable, high-performance applications with a focus on security and user experience.
+
+
 
 ---
 
