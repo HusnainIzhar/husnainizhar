@@ -1,4 +1,5 @@
-![Husnain Izhar](https://github.com/HusnainIzhar/husnainizhar/blob/main/Blue%20Gradient%20Software%20Engineer%20Linkedin%20Background%20Photo%20(7).png?raw=true)
+
+<img width="1584" height="396" alt="HusnainIzhar-Software_Engineer" src="https://github.com/user-attachments/assets/96d5887d-526e-4316-823d-936865325bb4" />
 
 # 👋 Hi, I'm Husnain Izhar  
 
