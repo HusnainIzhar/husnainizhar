@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Husnain Izhar  
 
-🚀 **Full Stack Software Developer**  
+🚀 **EdTech | FinTech Architect | Full Stack Developer | DevOps Engineer | Generative AI Specialist | Ex-Banker**  
 
 ---
 
