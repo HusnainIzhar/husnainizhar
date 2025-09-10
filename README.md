@@ -9,7 +9,7 @@
 
 ## 🔥 About Me  
 
-Passionate **Full Stack Software Developer** specializing in **web & mobile development**, **AI solutions**, and **cloud automation**. I focus on:
+Passionate **Full Stack Software Developer** specializing in **web & mobile development**, **AI solutions**, **cloud automation** and domain expertise in **EdTech & FinTech**. I focus on:
 
 - **Frontend:** HTML5, CSS3, ES6, TypeScript, React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material UI  
 - **Cross Platform:** React Native  
