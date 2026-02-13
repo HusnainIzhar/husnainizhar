@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Husnain Izhar  
 
-**🧠 AI Agents | LLMs | 🧩 Microservices | 🚀MVPs in 3 Weeks | Full Stack JS (React, React Native, Node, Next, Nest) | Unit • Integration • E2E Tests | Azure & AWS DevOps • CI/CD | Ex-Banker**  
+**🧠 AI Agents | LLMs | ERP | 🧩 Microservices | 🚀MVPs in 3 Weeks | Full Stack JS (React, React Native, Node, Next, Nest) | Unit • Integration • E2E Tests | Azure & AWS DevOps • CI/CD | Ex-Banker**  
 
 ---
 
