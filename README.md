@@ -9,20 +9,40 @@
 
 ## 🔥 About Me  
 
-Passionate **Full Stack Software Developer** specializing in **web & mobile development**, **AI solutions**, **cloud automation** and domain expertise in **EdTech & FinTech**. I focus on:
+Software Architect specializing in AI-integrated SaaS platforms, 
+ERP systems, and cloud-native applications. I design and ship 
+production-grade systems from architecture to deployment.
 
-- **Frontend:** HTML5, CSS3, ES6, TypeScript, React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material UI  
-- **Cross Platform:** React Native  
-- **Backend & APIs:** Node.js, Express.js, NestJS, Python, REST APIs, GraphQL, Redis  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Prisma  
-- **Cloud Platforms:** AWS, GCP, Heroku  
-- **Infrastructure & DevOps:** Docker, Terraform, GitHub Actions (CI/CD for Web & Mobile), Supabase, DynamoDB, S3, Lambda  
-- **Testing & QA:** Unit Testing, Integration Testing, End-to-End Testing (Playwright)  
-- **AI & Automation:** OpenAI, Hugging Face, LLaMA, LangChain, Assistant API (OpenAI), ElevenLabs, Gemini  
-- **Programming Languages:** JavaScript, TypeScript, Python  
-- **Version Control:** Git, GitHub  
+- Frontend: HTML5, CSS3, TypeScript, React.js, Next.js (App Router), 
+  Redux, Zustand, TailwindCSS, Shadcn/UI
 
-I build scalable, high-performance applications with a focus on security and user experience.
+- Cross Platform: React Native, Expo
+
+- Backend & APIs: Node.js, NestJS, Express.js, Python, REST APIs, 
+  GraphQL, gRPC, WebSockets, RabbitMQ, Redis
+
+- Databases: PostgreSQL, MongoDB, Redis, Supabase, Firebase, 
+  DynamoDB, pgvector
+
+- Cloud Platforms: AWS (EC2, S3, Lambda, Cognito), GCP (Cloud Run), 
+  Microsoft Azure, Cloudflare Workers
+
+- Infrastructure & DevOps: Docker, Kubernetes, Terraform, GitHub 
+  Actions, CI/CD, Multi-Cloud Deployments
+
+- AI & Automation: OpenAI API, LangChain, LangGraph, ElevenLabs, 
+  n8n, RAG, pgvector, Voice AI, Prompt Engineering
+
+- Testing & QA: Unit Testing, Integration Testing, 
+  End-to-End Testing (Playwright)
+
+- Programming Languages: TypeScript, JavaScript, Python, SQL
+
+- Version Control: Git, GitHub
+
+I build scalable, production-ready systems handling 1.5M+ requests 
+with a focus on performance, security, and clean architecture.
+
 
 
 
