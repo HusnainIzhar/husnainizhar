@@ -1,5 +1,5 @@
 
-<img width="1584" height="396" alt="HusnainIzhar-Software_Engineer" src="https://raw.githubusercontent.com/HusnainIzhar/husnainizhar/main/cover.png" />
+<img width="1584" height="396" alt="HusnainIzhar-Software_Engineer" src="https://raw.githubusercontent.com/HusnainIzhar/husnainizhar/main/Cover.png" />
 
 # 👋 Hi, I'm Husnain Izhar  
 
