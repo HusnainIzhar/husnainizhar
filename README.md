@@ -1,144 +1,70 @@
+<img width="1584" height="396" alt="Husnain Izhar - Software Architect" src="https://raw.githubusercontent.com/HusnainIzhar/husnainizhar/main/cover.png" />
 
-<img width="1584" height="396" alt="HusnainIzhar-Software_Engineer" src="https://raw.githubusercontent.com/HusnainIzhar/husnainizhar/main/cover.png" />
+# Husnain Izhar
 
-# 👋 Hi, I'm Husnain Izhar  
+**Software Architect · Distributed systems, AI integration and cloud infrastructure**
 
-**Software Architect | Platform & Product | Built 1.5M+ Request Systems | Ex-Banker**  
-
----
-
-## 🔥 About Me  
-
-Software Architect specializing in AI-integrated SaaS platforms, 
-ERP systems, and cloud-native applications. I design and ship 
-production-grade systems from architecture to deployment.
-
-- Frontend: HTML5, CSS3, TypeScript, React.js, Next.js (App Router), 
-  Redux, Zustand, TailwindCSS, Shadcn/UI
-
-- Cross Platform: React Native, Expo
-
-- Backend & APIs: Node.js, NestJS, Express.js, Python, REST APIs, 
-  GraphQL, gRPC, WebSockets, RabbitMQ, Redis
-
-- Databases: PostgreSQL, MongoDB, Redis, Supabase, Firebase, 
-  DynamoDB, pgvector
-
-- Cloud Platforms: AWS (EC2, S3, Lambda, Cognito), GCP (Cloud Run), 
-  Microsoft Azure, Cloudflare Workers
-
-- Infrastructure & DevOps: Docker, Kubernetes, Terraform, GitHub 
-  Actions, CI/CD, Multi-Cloud Deployments
-
-- AI & Automation: OpenAI API, LangChain, LangGraph, ElevenLabs, 
-  n8n, RAG, pgvector, Voice AI, Prompt Engineering
-
-- Testing & QA: Unit Testing, Integration Testing, 
-  End-to-End Testing (Playwright)
-
-- Programming Languages: TypeScript, JavaScript, Python, SQL
-
-- Version Control: Git, GitHub
-
-I build scalable, production-ready systems handling 1.5M+ requests 
-with a focus on performance, security, and clean architecture.
-
-
-
+I design and ship production systems end to end: service boundaries, data models, messaging, AI pipelines, infrastructure and CI/CD. 5+ years building SaaS platforms, ERPs and AI products for startups and growing businesses. Before engineering I spent 8 years in banking operations, which is where I learned to care about correctness, auditability and systems that don't fail quietly.
 
 ---
 
-## 🎯 Technologies I’ve Worked With
+## 🏗️ Systems I've built
+
+### Multi-tenant dealership ERP
+`NestJS` `GraphQL` `RabbitMQ` `PostgreSQL` `Redis` `Kubernetes` `Azure`
+
+- 15+ microservices (inventory, bidding, contracts, payments) behind an Apollo GraphQL gateway
+- Async inter-service communication over RabbitMQ
+- Real-time bidding and notifications via GraphQL subscriptions on Redis pub/sub
+- Multi-cloud object storage, PDF invoicing, payment flows
+- **+220% user engagement** after launch
+
+### Real-time AI voice tutor
+`Next.js` `OpenAI Realtime API` `ElevenLabs` `WebSockets` `DynamoDB` `AWS`
+
+- Low-latency voice loop over WebSockets with voice activity detection
+- Multiple voice agents coordinated in one session
+- Learner profiling pipeline that classifies students into 10 learner archetypes
+- Redis-backed cross-device session sync, resumable S3 uploads
+
+### Multi-tenant B2B outreach platform
+`Next.js` `Prisma` `PostgreSQL` `BullMQ` `QStash`
+
+- Campaign scheduling with idempotent jobs and jittered timing to stay under platform throttling limits
+- Per-tenant rate limiting and a unified inbox across accounts
+- External CRM sync
+
+### Infrastructure & delivery
+`Terraform` `Docker` `GitHub Actions` `AWS` `Azure` `GCP`
+
+- Multi-cloud deployments with environment-based pipelines; **30% faster build and release**
+- Terraform-provisioned AWS environments
+- Broke a monolithic backend into modular REST services for high-traffic AI generation workloads
+- Redis caching layer to cut API response times; systems serving **1.5M+ requests in production**
+
+> Most of this is client work in private repositories. Pinned repos below are public projects and experiments.
+
+---
+
+## ⚙️ Stack
 
 <p align="center">
-
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,py" />
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,html,css,vite,webpack" />
-
-  <!-- Mobile -->
-  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,postman" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" />
-  <!-- FastAPI (external icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" />
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,dynamodb" />
-
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,supabase" />
-  <!-- Azure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" />
-
-  <!-- DevOps & Infra -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,nginx,bash,linux" />
-  <img src="https://skillicons.dev/icons?i=github,git,gitlab" />
-
-  <!-- Docker Compose -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
-
-  <!-- Microservices (represented with k8s + nginx + docker ) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,figma,anaconda" />
-
-  <!-- Testing -->
-  <img src="https://skillicons.dev/icons?i=jest,playwright" />
-
-  <!-- CI/CD -->
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
-
-  <!-- Security & Auth -->
-  <img src="https://skillicons.dev/icons?i=jwt" />
-
-  <!-- Payments -->
-  <img src="https://skillicons.dev/icons?i=stripe" />
-
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,tailwind,nodejs,nestjs,graphql,rabbitmq,postgres,mongodb&perline=11" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=redis,supabase,dynamodb,aws,gcp,azure,cloudflare,docker,kubernetes,terraform,githubactions&perline=11" />
 </p>
 
+| Area | Tools |
+|---|---|
+| AI | OpenAI API, LangChain, LangGraph, RAG, pgvector, ElevenLabs, Voice AI, n8n |
+| Backend | Node.js, NestJS, Express, Python, REST, GraphQL, gRPC, WebSockets, RabbitMQ |
+| Frontend & mobile | React, Next.js (App Router), React Native, Expo, Zustand, Redux, Shadcn/UI |
+| Data | PostgreSQL, MongoDB, Redis, DynamoDB, Supabase, Firebase |
+| Infra | Docker, Kubernetes, Terraform, GitHub Actions, AWS, GCP, Azure, Cloudflare Workers |
+| Testing | Jest, Playwright (unit, integration, E2E) |
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Contact
 
-<p align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/husnainizhar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- X (Twitter) -->
-  <a href="https://twitter.com/husnainizhar" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="44" alt="X" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/husnainizhar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Outlook Email (PNG, works on GitHub) -->
-  <a href="mailto:husnainizhar@outlook.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" height="48" alt="Outlook" />
-  </a>
-
-</p>
-
-
-
-
-  
-
-🚀 **Let's collaborate and build something amazing!**  
+[husnainizhar.dev](https://husnainizhar.dev) · [LinkedIn](https://www.linkedin.com/in/husnainizhar/) · [husnainizhar@outlook.com](mailto:husnainizhar@outlook.com) · Pakistan, UTC+5
